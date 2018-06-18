@@ -1,6 +1,6 @@
 //
 //  ShowTap.swift
-//  Podclipper
+//  PodVideo
 //
 //  Created by Miguel  Saldana on 6/18/18.
 //  Copyright © 2018 Miguel  Saldana. All rights reserved.
